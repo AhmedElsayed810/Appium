@@ -1,6 +1,7 @@
-package app.SauceLabs.base.Products;
+package app.SauceLabs.base.pages.Products;
 
 import app.SauceLabs.base.base.BasePage;
+import app.SauceLabs.base.pages.Products.ProductsKeywords;
 import io.appium.java_client.AppiumDriver;
 import org.openqa.selenium.WebDriver;
 

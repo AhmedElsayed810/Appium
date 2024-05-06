@@ -1,4 +1,4 @@
-package app.SauceLabs.base.Products;
+package app.SauceLabs.base.pages.Products;
 
 import org.openqa.selenium.By;
 

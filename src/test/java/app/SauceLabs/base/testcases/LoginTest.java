@@ -1,6 +1,6 @@
 package app.SauceLabs.base.testcases;
 
-import app.SauceLabs.base.Products.ProductsPage;
+import app.SauceLabs.base.pages.Products.ProductsPage;
 import app.SauceLabs.base.base.BaseTest;
 import app.SauceLabs.base.pages.Login.LoginPage;
 import org.testng.annotations.Test;
